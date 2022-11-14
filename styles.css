@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    width: 100%;
+    background-color: white;
+}
+
+h1{
+    font-size: 18px;
+}
+
+#first_div {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 14px;
+    color: green;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+#second_div {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 14px;
+    color: red;
+    border: 1px solid gray;
+    border-radius: 5px;
+
+
+}
+
+#third_div {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 14px;
+    color: blue;
+    border: 1px solid gray;
+    border-radius: 5px;
+
+
+}
